@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<div align="center"> <img src="mars.avif"> </div>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="gtacar.gif">
 
