@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kotaku.com.au%2F2013%2F09%2Fgrand-theft-auto-v-gifs-are-here-to-destroy-the-internet%2F&psig=AOvVaw1_o3ZB0MzUe5NuABqq5dgw&ust=1714756148510000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND7n9zv8IUDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="gtacar.gif">
 
 <p align="left"> <a href="https://twitter.com/none" target="blank"><img src="https://img.shields.io/twitter/follow/none?logo=twitter&style=for-the-badge" alt="none" /></a> </p>
 
