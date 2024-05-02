@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/vaibhav-singh-25a122289/](https://www.linkedin.com/in/vaibhav-singh-25a122289/)
 
-- 💬 Ask me about **arduino , blender ,**
+- 💬 Ask me about **Arduino , IOT , Blender , Animation**
 
 - 📫 How to reach me **itsvaibhavsingh0001@gmail.com**
 
