@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
-<div align="center"> <img width="1400" height="200" src="mars.avif"> </div>
+<div align="center"> <img width="1400" height="200" src="6de538ce5e164bb57b91d5a951e1ca51.gif"> </div>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="gtacar.gif">
 
