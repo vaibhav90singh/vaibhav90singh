@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/](https://github.com/vaibhav90singh)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
 
