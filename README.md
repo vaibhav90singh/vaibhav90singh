@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
