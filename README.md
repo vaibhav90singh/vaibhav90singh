@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vaibhav-singh-25a122289/](https://www.linkedin.com/in/vaibhav-singh-25a122289/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/vaibhav-singh-25a122289/](https://www.linkedin.com/in/vaibhav-singh-25a122289/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
 
 - 💬 Ask me about **Arduino , IOT , Blender , Animation**
 
 - 📫 How to reach me **itsvaibhavsingh0001@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhav-singh-25a122289/](https://www.linkedin.com/in/vaibhav-singh-25a122289/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
