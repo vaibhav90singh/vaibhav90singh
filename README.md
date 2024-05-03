@@ -3,7 +3,12 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="gtacar.gif">
 
-<p align="left"> <a href="https://twitter.com/none" target="blank"><img src="https://img.shields.io/twitter/follow/none?logo=twitter&style=for-the-badge" alt="none" /></a> </p>
+<p align="left"> <a href="https://twitter.com/none" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="none" /></a> </p>
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://wwww.instagram.com/)
+[<img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/)
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/)
+[<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://)
 
 - 🔭 I’m currently working on **Unreal Engine 5**
 
