@@ -18,13 +18,13 @@
 
 - 👨‍💻 All of my projects are available at [(https://github.com/vaibhav90singh)](https://github.com/vaibhav90singh)
 
-- 📝 I regularly write researches on [https://www.linkedin.com/in/vaibhavsingh001/](https://vaibhav90singh.github.io/Neon-Lumina-Illuminating-Portfolios/))
+- 📝 I regularly write researches on [Research Website](https://vaibhav90singh.github.io/Neon-Lumina-Illuminating-Portfolios/))
 
 - 💬 Ask me about **Arduino , IOT , Blender , Animation**
 
 - 📫 How to reach me **itsvaibhavsingh0001@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhavsingh001/](https://vaibhav90singh.github.io/Shadows-of-Insight/)
+- 📄 Know about my experiences [Experience Website](https://vaibhav90singh.github.io/Shadows-of-Insight/)
  
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
