@@ -14,17 +14,17 @@
 
 - 🔭 I’m currently working on **Unreal Engine 5**
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [(https://github.com/vaibhav90singh)](https://github.com/vaibhav90singh)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
+- 📝 I regularly write researches on [https://www.linkedin.com/in/vaibhavsingh001/](https://vaibhav90singh.github.io/Neon-Lumina-Illuminating-Portfolios/))
 
 - 💬 Ask me about **Arduino , IOT , Blender , Animation**
 
 - 📫 How to reach me **itsvaibhavsingh0001@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhavsingh001/](https://www.linkedin.com/in/vaibhavsingh001/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhavsingh001/](https://vaibhav90singh.github.io/Shadows-of-Insight/)
  
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
