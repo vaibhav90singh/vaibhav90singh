@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://github.com/vaibhav90singh)](https://github.com/vaibhav90singh)
 
-- 📝 I regularly write researches on [Research Website](https://vaibhav90singh.github.io/Neon-Lumina-Illuminating-Portfolios/))
+- 📝 I regularly write researches on [Research Website](https://vaibhav90singh.github.io/Neon-Lumina-Illuminating-Portfolios/)
 
 - 💬 Ask me about **Arduino , IOT , Blender , Animation**
 
